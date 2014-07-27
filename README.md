@@ -2,10 +2,10 @@
 Data derived from the Human Activity Recognition Using
 Smartphones Dataset Version 1.0
 ==================================================================
-Coursera
-Getting and Cleaning Data Project
-July 26, 2014
+
+Coursera  Getting and Cleaning Data Project
 ==================================================================
+July 26, 2014
 Data was obtained from the UCI HAR Dataset at the website:
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 
