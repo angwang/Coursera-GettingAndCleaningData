@@ -24,9 +24,9 @@ For each record it is provided:
 The dataset includes the following files:
 =========================================
 
-- 'README.txt'
+- 'README.md'
 
-- �Codebook.txt': Contains information about the variables used in the feature vector.
+- 'Codebook.txt': Contains information about the variables used in the feature vector.
 
 - 'run_analysis.R': R script for creating the tidy data set
 
