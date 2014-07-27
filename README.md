@@ -20,7 +20,7 @@ For each record it is provided:
 
 - An identifier of the subject who carried out the experiment.
 - Type of activity performed
-- The average of 79 features vector. These features include time and frequency domain variables, which have the mean and standard deviation calculated. 
+- The average value of 79 features vector. These features include time and frequency domain variables, which have the mean and standard deviation calculated. 
 
 The dataset includes the following files:
 =========================================
